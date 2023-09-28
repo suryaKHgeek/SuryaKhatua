@@ -13,8 +13,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 
 ### Skills
 
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="HTML%" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="JAVA" /></a>
-
+<h1>HTML5</h1>
+<h1>CSS3</h1>
+<h1>c</h1>
+<h1>java</h1>
