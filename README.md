@@ -8,7 +8,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 
 * 🌍  I'm based in West Bengal,India
 * ✉️  You can contact me at [suryakhatua190@gmail.com](mailto:suryakhatua190@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Fullstack
 
 
 ### Skills
