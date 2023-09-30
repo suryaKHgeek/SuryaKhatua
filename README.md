@@ -13,7 +13,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 
 ### Skills
 
-<h1>HTML5</h1>
+<h1>surya</h1>
 <h1>CSS3</h1>
 <h1>c</h1>
 <h1>java</h1>
